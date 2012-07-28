@@ -13,4 +13,4 @@ En la sección de [Issues](https://github.com/Trisfera/Trisfera/issues) encontra
 Yo sé que es un poco extraño tener un repositorio de Github donde no vamos a colocar código, pero hay algunos beneficios:
 
 1. Todos los proyectos de Trisfera están en Github, así que la gente ya está acostumbrada a utilizarlo. 
-2. Así nos evitamos tener que buscar/aprender/mantener más herramientas.
+2. Así nos evitamos tener que buscar/aprender/mantener más herramientas para nuestro wiki y case tracker.
