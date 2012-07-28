@@ -7,10 +7,10 @@ Puedes encontrar las guías que hemos escrito en la sección de [Wiki](https://g
 También puedes agregar nuevas guías o expandir las que ya están.
 
 ## Tareas Pendientes
-En la sección de Issues encontrarás las tareas que tenemos pendientes (se acepta cualquier ayuda ;)
+En la sección de [Issues](https://github.com/Trisfera/Trisfera/issues) encontrarás las tareas que tenemos pendientes (se acepta cualquier ayuda ;)
 
 ## ¿Un repositorio de Github sin código?
 Yo sé que es un poco extraño tener un repositorio de Github donde no vamos a colocar código, pero hay algunos beneficios:
 
 1. Todos los proyectos de Trisfera están en Github, así que la gente ya está acostumbrada a utilizarlo. 
-2. Así nos evitamos tener que buscar/aprender/mantener más herramientas.ac
+2. Así nos evitamos tener que buscar/aprender/mantener más herramientas.
